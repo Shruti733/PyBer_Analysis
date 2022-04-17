@@ -17,7 +17,6 @@ ridership to the application by making right adjustments to the ride-fares.
 ## Results
 
 - **Total number of rides' comparison:**
-
 While comparing the total number of rides between each city type, we have noticed that the total number of rides in the rural cities is about 8% and 20% of to that in urban and suburban cities, respectively.
 
 ![total_rides](Image_analysis/total_rides.png)
