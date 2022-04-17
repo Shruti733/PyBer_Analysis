@@ -16,27 +16,28 @@ ridership to the application by making right adjustments to the ride-fares.
 
 ## Results
 
-- **Total number of rides' comparison:**
-While comparing the total number of rides between each city type, we have noticed that the `total number of rides` in the rural cities is about 8% and 20% of to that in urban and suburban cities, respectively.
+Through analysis and aggregation of PyBers ride sharing data, I have created the following summary:
+
+- `Total number of rides` in the rural cities is about 8% and 20% of to that in urban and suburban cities, respectively.
 
 ![total_rides](Image_analysis/total_rides.png)
 
-- **Total number of drivers' comparison:**
-While comparing the `total number of drivers` between each city type, we have noticed that the `total number of drivers` in the rural cities is about 3% and 15% of to that in urban and suburban cities, respectively.
+- `Total number of drivers` in the rural cities is about 3% and 15% of to that in urban and suburban cities, respectively.
 
 ![total_drivers](Image_analysis/total_drivers.png)
 
-- **Total ride fare comparison:**
-While comparing the `total ride fare` between each city type, we have noticed that the `total ride fare` in the rural cities is about 10% and 22% of to that in urban and suburban cities, respectively.
+- `Total ride fare` in the rural cities is about 10% and 22% of to that in urban and suburban cities, respectively.
 
 ![total_fares](Image_analysis/total_fares.png)
 
-- **Average ride fare comparison:**
-While comparing the `average ride fare` between each city type, we have noticed that the `average ride fare` in the rural cities is the highest whereas the average fare per ride fall on second and third places in suburban and urban cities, respectively. 
+- `Average ride fare` in the rural cities is the highest whereas the average fare per ride fall on second and third places in suburban and urban cities, respectively. 
 
 ![Average_fare_per_ride](Image_analysis/Average_fare_per_ride.png)
 
-- **Average fare per driver comparison:**
-While comparing the `average fare per driver` between each city type, we have noticed that the `average fare per driver` in the rural cities is about 3.5 and 2.5 times higher than urban and suburban cities, respectively.
+- `Average fare per driver` in the rural cities is about 3.5 and 2.5 times higher than urban and suburban cities, respectively.
 
 ![Average_fare_per_driver](Image_analysis/Average_fare_per_driver.png)
+
+## Summary
+
+
