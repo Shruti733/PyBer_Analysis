@@ -28,7 +28,6 @@ While comparing the `total number of drivers` between each city type, we have no
 ![total_drivers](Image_analysis/total_drivers.png)
 
 - **Total ride fare comparison:**
-
 While comparing the `total ride fare` between each city type, we have noticed that the `total ride fare` in the rural cities is about 10% and 22% of to that in urban and suburban cities, respectively.
 
 ![total_fares](Image_analysis/total_fares.png)
