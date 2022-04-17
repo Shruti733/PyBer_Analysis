@@ -18,8 +18,8 @@ ridership to the application by making right adjustments to the ride-fares and t
 
 **Results based on summary dataframe:**
 
-- `Total number of rides` in the rural cities have the least number of rides, which is about 8% and 20% of to that in
-urban and suburban cities, respectively.
+- `Total number of rides` in the rural cities are the lowest, which is about 8% and 20% of to that in urban and
+suburban cities, respectively.
 
 ![total_rides](Image_analysis/total_rides.png)
 
@@ -31,11 +31,13 @@ urban and suburban cities, respectively.
 
 ![total_fares](Image_analysis/total_fares.png)
 
-- `Average ride fare` in the rural cities is the highest whereas the average fare per ride falls on second and third places in suburban and urban cities, respectively. 
+- `Average ride fare` in the rural cities is the highest whereas the average fare per ride falls on second and third
+places in suburban and urban cities, respectively amongst the various city types. 
 
 ![Average_fare_per_ride](Image_analysis/Average_fare_per_ride.png)
 
-- `Average fare per driver` in the rural cities is about 3.5 and 2.5 times higher than urban and suburban cities, respectively.
+- `Average fare per driver` in the rural cities is about 3.5 and 2.5 times higher than that of urban and suburban cities,
+respectively.
 
 ![Average_fare_per_driver](Image_analysis/Average_fare_per_driver.png)
 
@@ -43,7 +45,7 @@ urban and suburban cities, respectively.
 
 ![PyBer_fare_summary](analysis/PyBer_fare_summary.png)
 
-While comparing the total weekly fare between each city type, we have noticed that total fare price in the urban cities
+While comparing the total weekly fare between each city type, we have noticed that the total fare price in the urban cities
 is the highest, which is lying in the $1600 - $2500 band. On the other hand, suburban and rural cities' total
 weekly fare is much lower than that in the urban cities, and are lying in the $700 - $1400 and less than
 $500 bands respectively.
@@ -53,7 +55,7 @@ $500 bands respectively.
 Following recommendations can be provided based on the above analysis:
 
 1. Average fare per ride in the rural cities is on the higher side, which needs to be reduced in comparison with other
-city types. By this affordability in the rural cities can be improved. 
+city types. By this change, affordability in the rural cities can be improved. 
 
 2. Average fare per ride in suburban cities is also higher, which is affecting the number of rides in suburban cities.
 By reducing the fare per ride, an increase in the number of rides can be expected.
